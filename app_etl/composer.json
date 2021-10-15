@@ -1,0 +1,15 @@
+{
+    "name": "murilo/app_etl",
+    "authors": [
+        {
+            "name": "Murilo Moreira",
+            "email": "murilojosemoreira@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
