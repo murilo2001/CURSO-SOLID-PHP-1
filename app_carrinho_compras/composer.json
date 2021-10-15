@@ -1,0 +1,16 @@
+{
+    "name": "murilo/curso-solid-1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Murilo Moreira",
+            "email": "murilojosemoreira@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
