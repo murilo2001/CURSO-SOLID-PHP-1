@@ -30,7 +30,7 @@ class Item {
     }
 
     public function itemValido() {
-        if (!$this->item) return false;
+        if (!$this->valor) return false;
         if (!$this->descricao) return false;
 
         return true;
